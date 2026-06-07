@@ -1,22 +1,27 @@
 {
-  "Name": "AutoUniverseStorage",
-  "DisplayName": "เก็บของเข้าจักรวาลย่อส่วนอัตโนมัติ",
-  "GameVersion": 1.2,
-  "Version": "1.0",
-  "Desc": "[ผู้สร้างและดัดแปลงลงมือถือ]\nXaou_xaou009\n\n[รายละเอียด]\nม็อดช่วยจัดการคลังเก็บของอัตโนมัติ โดยจะนำไอเทมเข้าสู่จักรวาลย่อส่วนโดยอัตโนมัติ ช่วยลดภาระในการจัดเก็บทรัพยากร ประหยัดเวลาในการบริหารสำนัก และเพิ่มความสะดวกในการเล่น\n\n[คุณสมบัติ]\n- เก็บของเข้าจักรวาลย่อส่วนอัตโนมัติ\n- ลดเวลาในการขนย้ายไอเทม\n- ช่วยจัดระเบียบคลังเก็บของ\n- รองรับ Amazing Cultivation Simulator Mobile 1.2.0",
-  "Author": "Xaou_xaou009",
-  "UIPackage": "UI/Sample",
-  "ID": "0874002136",
-  "Flag": -443513471,
-  "Tags": [
-    "Function",
-    "Item",
-    "Usability",
-    "Storage"
-  ],
-  "IncreasedDesc": "v1.0\n- เปิดตัวม็อด\n- เพิ่มระบบเก็บของเข้าจักรวาลย่อส่วนอัตโนมัติ",
-  "IsInsideCreat": false,
-  "Previews": [
-    "xaou_xaou009.png"
-  ]
+"LastRelease": null,
+"LoadInfo": false,
+"Name": "AutoUniverseStorage",
+"DisplayName": "เก็บของเข้าจักรวาลย่อส่วนอัตโนมัติ",
+"GameVersion": 1.268,
+"Version": "1.0",
+"Desc": "[ผู้สร้างและดัดแปลงลงมือถือ]\r\nXaou_xaou009\r\n\r\n[รายละเอียด]\r\nม็อดช่วยจัดการคลังเก็บของอัตโนมัติ โดยจะนำไอเทมเข้าสู่จักรวาลย่อส่วนโดยอัตโนมัติ ช่วยลดภาระในการขนย้ายทรัพยากร ประหยัดเวลาในการบริหารสำนัก และเพิ่มความสะดวกในการเล่น",
+"Author": "Xaou_xaou009",
+"UIPackage": "UI/Sample",
+"ID": "0874002136",
+"Flag": -443513471,
+"Tags": [
+"Function",
+"Item",
+"Usability",
+"Storage"
+],
+"IncreasedDesc": "[เวอร์ชั่น1.0] เพิ่มระบบเก็บของเข้าจักรวาลย่อส่วนอัตโนมัติ",
+"IsInsideCreat": false,
+"Previews": [
+"xaouxaou009.png"
+],
+"Dependencies": null,
+"Url": "https://github.com/xaouxaou009-debug/mod",
+"VersionValue": 100.0
 }
